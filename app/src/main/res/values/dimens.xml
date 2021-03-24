@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_margin">8dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="margin_bottom">40dp</dimen>
+    <dimen name="buttonRadius">200dp</dimen>
+    <dimen name="buttonWidth">280dp</dimen>
+    <dimen name="buttonHight">55dp</dimen>
+</resources>
